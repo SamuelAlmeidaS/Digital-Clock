@@ -1,6 +1,6 @@
-# Digital Clock
+#🕛 Digital Clock
 
-## Tech
+##⚙️ Tech
 
 <ul>
  <li>Html</li>
